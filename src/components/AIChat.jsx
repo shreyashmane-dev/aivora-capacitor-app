@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { useState } from "react";
-import "./AIChat.css";
+import "./aiChat.css";
 import aiAvatar from "../assets/ai-avatar.jpg";
 
 export default function AIChat({ open, onClose }) {
