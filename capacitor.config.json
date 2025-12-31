@@ -1,0 +1,9 @@
+{
+  "appId": "com.anos.app",
+  "appName": "Aivora",
+  "webDir": "build",
+  "server": {
+    "url": "https://aivora-v007.netlify.app/",
+     "cleartext": true
+  }
+}
